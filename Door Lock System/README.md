@@ -76,7 +76,7 @@ If the password is incorrect:
 
 - `Door_Lock_System.ino` – Arduino source code
 - `README.md` – Project documentation
-- .png`
+- Door Lock System Tinkercad.png
 
 ---
 
@@ -84,3 +84,6 @@ If the password is incorrect:
 
 ```cpp
 char correctPassword[5] = "1234";
+## How to Use:
+click on this link to simulate: https://www.tinkercad.com/things/1LJYQKbnl07-door-lock-system
+

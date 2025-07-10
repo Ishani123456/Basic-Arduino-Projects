@@ -80,10 +80,14 @@ If the password is incorrect:
 
 ---
 
+## How to Use:
+click on this link to simulate: https://www.tinkercad.com/things/1LJYQKbnl07-door-lock-system
+
+---
+
 ## Default Password
 
 ```cpp
 char correctPassword[5] = "1234";
-## How to Use:
-click on this link to simulate: https://www.tinkercad.com/things/1LJYQKbnl07-door-lock-system
+
 
